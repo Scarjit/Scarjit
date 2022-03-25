@@ -52,6 +52,4 @@ jobs:
           
           plugin_lines: yes
           
-          plugin_stars: yes
-          
           plugin_traffic: yes
