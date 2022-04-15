@@ -432,38 +432,38 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M134.935,10.004A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.058464226078958494"/>
+                                        <path d="M135.565,10.249A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.05989773557341125"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M135.591,10.259A75,75,0,0,0,134.691,9.91L108,80Z" class="ct-slice-pie" ct:value="0.001493859435234712"/>
+                                        <path d="M136.234,10.517A75,75,0,0,0,135.321,10.153L108,80Z" class="ct-slice-pie" ct:value="0.0015304880169745034"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M175.603,112.478A75,75,0,0,0,135.347,10.164L108,80Z" class="ct-slice-pie" ct:value="0.2613204606272358"/>
+                                        <path d="M173.936,115.742A75,75,0,0,0,135.991,10.419L108,80Z" class="ct-slice-pie" ct:value="0.26762986222445684"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M33.316,86.873A75,75,0,0,0,175.716,112.241L108,80Z" class="ct-slice-pie" ct:value="0.414116971662968"/>
+                                        <path d="M33.189,85.323A75,75,0,0,0,174.06,115.512L108,80Z" class="ct-slice-pie" ct:value="0.4096363826093556"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M33.027,82.028A75,75,0,0,0,33.34,87.133L108,80Z" class="ct-slice-pie" ct:value="0.01029960523838478"/>
+                                        <path d="M33.164,84.963A75,75,0,0,0,33.208,85.584L108,80Z" class="ct-slice-pie" ct:value="0.0007652440084872517"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M73.007,13.664A75,75,0,0,0,33.035,82.29L108,80Z" class="ct-slice-pie" ct:value="0.17705012145324128"/>
+                                        <path d="M72.22,14.085A75,75,0,0,0,33.182,85.225L108,80Z" class="ct-slice-pie" ct:value="0.18139128949939762"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M107.718,5.001A75,75,0,0,0,72.776,13.786L108,80Z" class="ct-slice-pie" ct:value="0.07665597713530847"/>
+                                        <path d="M107.711,5.001A75,75,0,0,0,71.991,14.21L108,80Z" class="ct-slice-pie" ct:value="0.07853553799499745"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M108,5A75,75,0,0,0,107.456,5.002L108,80Z" class="ct-slice-pie" ct:value="0.0005987783686684589"/>
+                                        <path d="M108,5A75,75,0,0,0,107.449,5.002L108,80Z" class="ct-slice-pie" ct:value="0.0006134600729195324"/>
                                     </g>
                                     <g>
-                                        <text dx="114.84899384938225" dy="43.1307542353912" text-anchor="middle" class="ct-label">PowerShell</text>
-                                        <text dx="121.63168706768579" dy="45.06538811309495" text-anchor="middle" class="ct-label">Smarty</text>
-                                        <text dx="142.91998601042587" dy="66.33088967665923" text-anchor="middle" class="ct-label">Go</text>
-                                        <text dx="101.35846454146497" dy="116.90718096459037" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="70.56614955328862" dy="82.22639635582836" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="75.62903060954152" dy="61.06932804356908" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="98.9192694721966" dy="43.6160704007742" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="107.92945812694812" dy="42.50006634880341" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="115.01496458927147" dy="43.16197247664762" text-anchor="middle" class="ct-label">PowerShell</text>
+                                        <text dx="121.9497917401762" dy="45.19118918426382" text-anchor="middle" class="ct-label">Smarty</text>
+                                        <text dx="143.30239461580447" dy="67.3512477141016" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="100.07822462551533" dy="116.65372388879754" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="70.58828099347868" dy="82.5716300233687" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="75.1561498284451" dy="61.902168474967695" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="98.70123737449671" dy="43.67118205013349" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="107.92772848255095" dy="42.500069642361126" text-anchor="middle" class="ct-label">Dockerfile</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -3321,7 +3321,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2022, 18:05:12 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 15 Apr 2022, 19:08:04 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
