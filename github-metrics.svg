@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1559 Commits
+                            1560 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    314 views in last two weeks
+                                    313 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -297,12 +297,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 106 commits)</small>
+                    <small class="h-details">(computed from last 108 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 71.9 characters per line of code written</li>
+                        <li>Has approximately 72.2 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -324,8 +324,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,114,200.217,103C206.522,92,212.826,37,219.13,37C225.435,37,231.739,61.811,238.043,75.5C244.348,89.189,250.652,119.5,256.957,119.5C263.261,119.5,269.565,53.5,275.87,53.5C282.174,53.5,288.478,59,294.783,59C301.087,59,307.391,59,313.696,59C320,59,326.304,86.5,332.609,86.5C338.913,86.5,345.217,42.5,351.522,42.5C357.826,42.5,364.13,81.846,370.435,92C376.739,102.154,383.043,109.111,389.348,114C395.652,118.889,401.957,125,408.261,125C414.565,125,420.87,122.433,427.174,119.5C433.478,116.567,439.783,97.5,446.087,97.5C452.391,97.5,458.696,104.833,465,108.5L465,125Z" class="ct-area"/>
-                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,114,200.217,103C206.522,92,212.826,37,219.13,37C225.435,37,231.739,61.811,238.043,75.5C244.348,89.189,250.652,119.5,256.957,119.5C263.261,119.5,269.565,53.5,275.87,53.5C282.174,53.5,288.478,59,294.783,59C301.087,59,307.391,59,313.696,59C320,59,326.304,86.5,332.609,86.5C338.913,86.5,345.217,42.5,351.522,42.5C357.826,42.5,364.13,81.846,370.435,92C376.739,102.154,383.043,109.111,389.348,114C395.652,118.889,401.957,125,408.261,125C414.565,125,420.87,122.433,427.174,119.5C433.478,116.567,439.783,97.5,446.087,97.5C452.391,97.5,458.696,104.833,465,108.5" class="ct-line"/>
+                                        <path d="M30,125L30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,114,200.217,103C206.522,92,212.826,37,219.13,37C225.435,37,231.739,37,238.043,37C244.348,37,250.652,119.5,256.957,119.5C263.261,119.5,269.565,64.5,275.87,64.5C282.174,64.5,288.478,70,294.783,70C301.087,70,307.391,59,313.696,59C320,59,326.304,86.5,332.609,86.5C338.913,86.5,345.217,48,351.522,48C357.826,48,364.13,82.222,370.435,92C376.739,101.778,383.043,109.111,389.348,114C395.652,118.889,401.957,125,408.261,125C414.565,125,420.87,122.433,427.174,119.5C433.478,116.567,439.783,97.5,446.087,97.5C452.391,97.5,458.696,104.833,465,108.5L465,125Z" class="ct-area"/>
+                                        <path d="M30,125C36.304,125,42.609,125,48.913,125C55.217,125,61.522,125,67.826,125C74.13,125,80.435,125,86.739,125C93.043,125,99.348,125,105.652,125C111.957,125,118.261,125,124.565,125C130.87,125,137.174,125,143.478,125C149.783,125,156.087,125,162.391,125C168.696,125,175,125,181.304,125C187.609,125,193.913,114,200.217,103C206.522,92,212.826,37,219.13,37C225.435,37,231.739,37,238.043,37C244.348,37,250.652,119.5,256.957,119.5C263.261,119.5,269.565,64.5,275.87,64.5C282.174,64.5,288.478,70,294.783,70C301.087,70,307.391,59,313.696,59C320,59,326.304,86.5,332.609,86.5C338.913,86.5,345.217,48,351.522,48C357.826,48,364.13,82.222,370.435,92C376.739,101.778,383.043,109.111,389.348,114C395.652,118.889,401.957,125,408.261,125C414.565,125,420.87,122.433,427.174,119.5C433.478,116.567,439.783,97.5,446.087,97.5C452.391,97.5,458.696,104.833,465,108.5" class="ct-line"/>
                                         <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="48.913043478260875" y1="125" x2="48.92304347826087" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="67.82608695652175" y1="125" x2="67.83608695652175" y2="125" class="ct-point" ct:value="0"/>
@@ -337,20 +337,20 @@
                                         <line x1="181.30434782608697" y1="125" x2="181.31434782608696" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="200.21739130434784" y1="103" x2="200.22739130434783" y2="103" class="ct-point" ct:value="4"/>
                                         <line x1="219.13043478260872" y1="37" x2="219.1404347826087" y2="37" class="ct-point" ct:value="16"/>
-                                        <line x1="238.0434782608696" y1="75.5" x2="238.05347826086958" y2="75.5" class="ct-point" ct:value="9"/>
+                                        <line x1="238.0434782608696" y1="37" x2="238.05347826086958" y2="37" class="ct-point" ct:value="16"/>
                                         <line x1="256.95652173913044" y1="119.5" x2="256.9665217391304" y2="119.5" class="ct-point" ct:value="1"/>
-                                        <line x1="275.8695652173913" y1="53.5" x2="275.8795652173913" y2="53.5" class="ct-point" ct:value="13"/>
-                                        <line x1="294.7826086956522" y1="59" x2="294.7926086956522" y2="59" class="ct-point" ct:value="12"/>
+                                        <line x1="275.8695652173913" y1="64.5" x2="275.8795652173913" y2="64.5" class="ct-point" ct:value="11"/>
+                                        <line x1="294.7826086956522" y1="70" x2="294.7926086956522" y2="70" class="ct-point" ct:value="10"/>
                                         <line x1="313.69565217391306" y1="59" x2="313.70565217391305" y2="59" class="ct-point" ct:value="12"/>
                                         <line x1="332.60869565217394" y1="86.5" x2="332.6186956521739" y2="86.5" class="ct-point" ct:value="7"/>
-                                        <line x1="351.5217391304348" y1="42.5" x2="351.5317391304348" y2="42.5" class="ct-point" ct:value="15"/>
+                                        <line x1="351.5217391304348" y1="48" x2="351.5317391304348" y2="48" class="ct-point" ct:value="14"/>
                                         <line x1="370.4347826086957" y1="92" x2="370.4447826086957" y2="92" class="ct-point" ct:value="6"/>
                                         <line x1="389.34782608695656" y1="114" x2="389.35782608695655" y2="114" class="ct-point" ct:value="2"/>
                                         <line x1="408.26086956521743" y1="125" x2="408.2708695652174" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="427.1739130434783" y1="119.5" x2="427.1839130434783" y2="119.5" class="ct-point" ct:value="1"/>
                                         <line x1="446.0869565217392" y1="97.5" x2="446.0969565217392" y2="97.5" class="ct-point" ct:value="5"/>
                                         <line x1="465.00000000000006" y1="108.5" x2="465.01000000000005" y2="108.5" class="ct-point" ct:value="3"/>
-                                    <text x="200.21739130434784" y="98" class="ct-post">4</text><text x="219.13043478260872" y="32" class="ct-post">16</text><text x="238.0434782608696" y="70.5" class="ct-post">9</text><text x="256.95652173913044" y="114.5" class="ct-post">1</text><text x="275.8695652173913" y="48.5" class="ct-post">13</text><text x="294.7826086956522" y="54" class="ct-post">12</text><text x="313.69565217391306" y="54" class="ct-post">12</text><text x="332.60869565217394" y="81.5" class="ct-post">7</text><text x="351.5217391304348" y="37.5" class="ct-post">15</text><text x="370.4347826086957" y="87" class="ct-post">6</text><text x="389.34782608695656" y="109" class="ct-post">2</text><text x="427.1739130434783" y="114.5" class="ct-post">1</text><text x="446.0869565217392" y="92.5" class="ct-post">5</text><text x="465.00000000000006" y="103.5" class="ct-post">3</text></g>
+                                    <text x="200.21739130434784" y="98" class="ct-post">4</text><text x="219.13043478260872" y="32" class="ct-post">16</text><text x="238.0434782608696" y="32" class="ct-post">16</text><text x="256.95652173913044" y="114.5" class="ct-post">1</text><text x="275.8695652173913" y="59.5" class="ct-post">11</text><text x="294.7826086956522" y="65" class="ct-post">10</text><text x="313.69565217391306" y="54" class="ct-post">12</text><text x="332.60869565217394" y="81.5" class="ct-post">7</text><text x="351.5217391304348" y="43" class="ct-post">14</text><text x="370.4347826086957" y="87" class="ct-post">6</text><text x="389.34782608695656" y="109" class="ct-post">2</text><text x="427.1739130434783" y="114.5" class="ct-post">1</text><text x="446.0869565217392" y="92.5" class="ct-post">5</text><text x="465.00000000000006" y="103.5" class="ct-post">3</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -400,16 +400,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,114C39.5,108.5,49,105.026,58.5,97.5C68,89.974,77.5,72.112,87,61.75C96.5,51.388,106,34.25,115.5,34.25C125,34.25,134.5,48.688,144,59C153.5,69.313,163,92.393,172.5,100.25C182,108.107,191.5,111.25,201,116.75L201,125Z" class="ct-area"/>
-                                            <path d="M30,114C39.5,108.5,49,105.026,58.5,97.5C68,89.974,77.5,72.112,87,61.75C96.5,51.388,106,34.25,115.5,34.25C125,34.25,134.5,48.688,144,59C153.5,69.313,163,92.393,172.5,100.25C182,108.107,191.5,111.25,201,116.75" class="ct-line"/>
+                                            <path d="M30,125L30,114C39.5,108.5,49,105.357,58.5,97.5C68,89.643,77.5,65.815,87,56.25C96.5,46.685,106,34.25,115.5,34.25C125,34.25,134.5,48.688,144,59C153.5,69.313,163,92.393,172.5,100.25C182,108.107,191.5,111.25,201,116.75L201,125Z" class="ct-area"/>
+                                            <path d="M30,114C39.5,108.5,49,105.357,58.5,97.5C68,89.643,77.5,65.815,87,56.25C96.5,46.685,106,34.25,115.5,34.25C125,34.25,134.5,48.688,144,59C153.5,69.313,163,92.393,172.5,100.25C182,108.107,191.5,111.25,201,116.75" class="ct-line"/>
                                             <line x1="30" y1="114" x2="30.01" y2="114" class="ct-point" ct:value="4"/>
                                             <line x1="58.5" y1="97.5" x2="58.51" y2="97.5" class="ct-point" ct:value="10"/>
-                                            <line x1="87" y1="61.75" x2="87.01" y2="61.75" class="ct-point" ct:value="23"/>
+                                            <line x1="87" y1="56.25" x2="87.01" y2="56.25" class="ct-point" ct:value="25"/>
                                             <line x1="115.5" y1="34.25" x2="115.51" y2="34.25" class="ct-point" ct:value="33"/>
                                             <line x1="144" y1="59" x2="144.01" y2="59" class="ct-point" ct:value="24"/>
                                             <line x1="172.5" y1="100.25" x2="172.51" y2="100.25" class="ct-point" ct:value="9"/>
                                             <line x1="201" y1="116.75" x2="201.01" y2="116.75" class="ct-point" ct:value="3"/>
-                                        <text x="30" y="109" class="ct-post">4</text><text x="58.5" y="92.5" class="ct-post">10</text><text x="87" y="56.75" class="ct-post">23</text><text x="115.5" y="29.25" class="ct-post">33</text><text x="144" y="54" class="ct-post">24</text><text x="172.5" y="95.25" class="ct-post">9</text><text x="201" y="111.75" class="ct-post">3</text></g>
+                                        <text x="30" y="109" class="ct-post">4</text><text x="58.5" y="92.5" class="ct-post">10</text><text x="87" y="51.25" class="ct-post">25</text><text x="115.5" y="29.25" class="ct-post">33</text><text x="144" y="54" class="ct-post">24</text><text x="172.5" y="95.25" class="ct-post">9</text><text x="201" y="111.75" class="ct-post">3</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -432,38 +432,38 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M135.72,10.311A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.06025173277011015"/>
+                                        <path d="M135.966,10.409A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.06081582200247219"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M136.392,10.582A75,75,0,0,0,135.476,10.214L108,80Z" class="ct-slice-pie" ct:value="0.0015395332415126868"/>
+                                        <path d="M136.645,10.686A75,75,0,0,0,135.723,10.312L108,80Z" class="ct-slice-pie" ct:value="0.001553946671375596"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M121.296,153.812A75,75,0,0,0,136.15,10.483L108,80Z" class="ct-slice-pie" ct:value="0.40984347018426687"/>
+                                        <path d="M123.555,153.369A75,75,0,0,0,136.402,10.586L108,80Z" class="ct-slice-pie" ct:value="0.40437930425569485"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M120.939,153.875A75,75,0,0,0,121.554,153.765L108,80Z" class="ct-slice-pie" ct:value="0.0007697666207563434"/>
+                                        <path d="M123.197,153.444A75,75,0,0,0,123.811,153.314L108,80Z" class="ct-slice-pie" ct:value="0.000776973335687798"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M46.004,122.208A75,75,0,0,0,121.197,153.83L108,80Z" class="ct-slice-pie" ct:value="0.1824633168034964"/>
+                                        <path d="M46.857,123.434A75,75,0,0,0,123.453,153.391L108,80Z" class="ct-slice-pie" ct:value="0.18417157626057504"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M33.385,87.589A75,75,0,0,0,46.152,122.424L108,80Z" class="ct-slice-pie" ct:value="0.07899968509547332"/>
+                                        <path d="M33.51,88.728A75,75,0,0,0,47.009,123.647L108,80Z" class="ct-slice-pie" ct:value="0.07973929655017417"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M33.356,87.3A75,75,0,0,0,33.412,87.85L108,80Z" class="ct-slice-pie" ct:value="0.000617085638126986"/>
+                                        <path d="M33.476,88.436A75,75,0,0,0,33.54,88.988L108,80Z" class="ct-slice-pie" ct:value="0.0006228629219976562"/>
                                     </g>
                                     <g class="ct-series ct-series-h">
-                                        <path d="M108,5A75,75,0,0,0,33.382,87.56L108,80Z" class="ct-slice-pie" ct:value="0.26551540964625725"/>
+                                        <path d="M108,5A75,75,0,0,0,33.506,88.696L108,80Z" class="ct-slice-pie" ct:value="0.2679402180020227"/>
                                     </g>
                                     <g>
-                                        <text dx="115.05592836547812" dy="43.169796702960745" text-anchor="middle" class="ct-label">PowerShell</text>
-                                        <text dx="122.02816822258819" dy="45.22270142292868" text-anchor="middle" class="ct-label">Smarty</text>
-                                        <text dx="145.29342832784667" dy="83.93067469472663" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="114.55881327948416" dy="116.92197134992743" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="93.40241494482228" dy="114.54215555747574" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="72.76771844352416" dy="92.84275423440052" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="70.68519666334402" dy="83.72229122271324" text-anchor="middle" class="ct-label">Dockerfile</text>
-                                        <text dx="80.22300481545211" dy="54.80697440723716" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="115.12118547631462" dy="43.18235861150357" text-anchor="middle" class="ct-label">PowerShell</text>
+                                        <text dx="122.15291271946046" dy="45.27328029376609" text-anchor="middle" class="ct-label">Smarty</text>
+                                        <text dx="145.34319990624263" dy="83.42570003975845" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="115.68812746243172" dy="116.7034425649884" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="94.2804070150408" dy="114.90018292684235" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="72.9991336668343" dy="93.46065956511299" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="70.74631408043078" dy="84.29102381793561" text-anchor="middle" class="ct-label">Dockerfile</text>
+                                        <text dx="80.03189819536128" dy="55.019301822299596" text-anchor="middle" class="ct-label">Go</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2885,7 +2885,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="18.30830830830831 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="18.463463463463462 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2908,12 +2908,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 227k out of 301m repositories</span>
+                                    <span class="gh">ranked 226k out of 301m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">119</div>
+                                        <div class="value">120</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 119 stars</div>
+                                <div class="text">Maintaining a repository with 120 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3300,7 +3300,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 11:05:12 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 12:05:21 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
