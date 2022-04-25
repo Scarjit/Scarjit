@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    446 views in last two weeks
+                                    444 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -432,34 +432,34 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M143.494,13.931A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.0784606547960942"/>
+                                        <path d="M143.493,13.93A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.07845898570456093"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M143.896,14.148A75,75,0,0,0,143.263,13.807L108,80Z" class="ct-slice-pie" ct:value="0.0009700682877018317"/>
+                                        <path d="M143.896,14.148A75,75,0,0,0,143.263,13.807L108,80Z" class="ct-slice-pie" ct:value="0.0009700476514635807"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M144.321,14.382A75,75,0,0,0,143.666,14.023L108,80Z" class="ct-slice-pie" ct:value="0.001029633884315102"/>
+                                        <path d="M144.321,14.381A75,75,0,0,0,143.665,14.023L108,80Z" class="ct-slice-pie" ct:value="0.0010296119809394145"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M70.588,145.003A75,75,0,1,0,144.092,14.255L108,80Z" class="ct-slice-pie" ct:value="0.5026570510774991"/>
+                                        <path d="M70.593,145.006A75,75,0,1,0,144.091,14.255L108,80Z" class="ct-slice-pie" ct:value="0.5026463580667121"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M41.642,45.048A75,75,0,0,0,70.815,145.133L108,80Z" class="ct-slice-pie" ct:value="0.2440402493245687"/>
+                                        <path d="M41.643,45.046A75,75,0,0,0,70.82,145.136L108,80Z" class="ct-slice-pie" ct:value="0.2440563308373043"/>
                                     </g>
                                     <g class="ct-series ct-series-f">
-                                        <path d="M77.277,11.581A75,75,0,0,0,41.521,45.28L108,80Z" class="ct-slice-pie" ct:value="0.10566936839194163"/>
+                                        <path d="M77.278,11.581A75,75,0,0,0,41.521,45.278L108,80Z" class="ct-slice-pie" ct:value="0.10566712049012934"/>
                                     </g>
                                     <g class="ct-series ct-series-g">
-                                        <path d="M108,5A75,75,0,0,0,77.038,11.689L108,80Z" class="ct-slice-pie" ct:value="0.06717297423787946"/>
+                                        <path d="M108,5A75,75,0,0,0,77.039,11.689L108,80Z" class="ct-slice-pie" ct:value="0.0671715452688904"/>
                                     </g>
                                     <g>
-                                        <text dx="117.15011000629679" dy="43.633456489890776" text-anchor="middle" class="ct-label">PowerShell</text>
-                                        <text dx="125.84767921393926" dy="47.019545990445785" text-anchor="middle" class="ct-label">Smarty</text>
-                                        <text dx="126.05451710384777" dy="47.13231964152523" text-anchor="middle" class="ct-label">Python</text>
-                                        <text dx="140.6563720108069" dy="98.43397317703885" text-anchor="middle" class="ct-label">JavaScript</text>
-                                        <text dx="71.97995942069576" dy="90.4310438914462" text-anchor="middle" class="ct-label">HTML</text>
-                                        <text dx="82.32816815102757" dy="52.66491175214382" text-anchor="middle" class="ct-label">CSS</text>
-                                        <text dx="100.14497697738531" dy="43.33191287625992" text-anchor="middle" class="ct-label">Go</text>
+                                        <text dx="117.1499193143562" dy="43.63340851082176" text-anchor="middle" class="ct-label">PowerShell</text>
+                                        <text dx="125.84733120180802" dy="47.0193576628203" text-anchor="middle" class="ct-label">Smarty</text>
+                                        <text dx="126.05416588916461" dy="47.13212671853371" text-anchor="middle" class="ct-label">Python</text>
+                                        <text dx="140.65718948079052" dy="98.43252492784819" text-anchor="middle" class="ct-label">JavaScript</text>
+                                        <text dx="71.98024544408884" dy="90.43203152467996" text-anchor="middle" class="ct-label">HTML</text>
+                                        <text dx="82.32860662195972" dy="52.66449996744326" text-anchor="middle" class="ct-label">CSS</text>
+                                        <text dx="100.14514158925205" dy="43.33187761355782" text-anchor="middle" class="ct-label">Go</text>
                                     </g>
                                 </svg>
                                 <div class="ct-legend">
@@ -2516,7 +2516,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.3911704312115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3291,7 +3291,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 13:05:27 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 14:06:41 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
