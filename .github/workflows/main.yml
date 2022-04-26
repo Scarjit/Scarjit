@@ -29,6 +29,7 @@ jobs:
           user: Scarjit
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_octicon: yes
           config_timezone: Europe/Berlin
           config_twemoji: yes
@@ -53,3 +54,5 @@ jobs:
           plugin_lines: yes
           
           plugin_traffic: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
