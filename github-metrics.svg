@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    274 views in last two weeks
+                                    273 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -397,16 +397,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,92,49,28.357,58.5,26C68,23.643,77.5,22.333,87,22.333C96.5,22.333,106,40.667,115.5,40.667C125,40.667,134.5,37,144,37C153.5,37,163,53.58,172.5,66.333C182,79.087,191.5,103,201,121.333L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,92,49,28.357,58.5,26C68,23.643,77.5,22.333,87,22.333C96.5,22.333,106,40.667,115.5,40.667C125,40.667,134.5,37,144,37C153.5,37,163,53.58,172.5,66.333C182,79.087,191.5,103,201,121.333" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,92,49,28.357,58.5,26C68,23.643,77.5,22.333,87,22.333C96.5,22.333,106,35.044,115.5,37C125,38.956,134.5,38.528,144,40.667C153.5,42.806,163,54.667,172.5,66.333C182,78,191.5,103,201,121.333L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,92,49,28.357,58.5,26C68,23.643,77.5,22.333,87,22.333C96.5,22.333,106,35.044,115.5,37C125,38.956,134.5,38.528,144,40.667C153.5,42.806,163,54.667,172.5,66.333C182,78,191.5,103,201,121.333" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="58.5" y1="26" x2="58.51" y2="26" class="ct-point" ct:value="27"/>
                                             <line x1="87" y1="22.33333333333333" x2="87.01" y2="22.33333333333333" class="ct-point" ct:value="28"/>
-                                            <line x1="115.5" y1="40.66666666666667" x2="115.51" y2="40.66666666666667" class="ct-point" ct:value="23"/>
-                                            <line x1="144" y1="37" x2="144.01" y2="37" class="ct-point" ct:value="24"/>
+                                            <line x1="115.5" y1="37" x2="115.51" y2="37" class="ct-point" ct:value="24"/>
+                                            <line x1="144" y1="40.66666666666667" x2="144.01" y2="40.66666666666667" class="ct-point" ct:value="23"/>
                                             <line x1="172.5" y1="66.33333333333334" x2="172.51" y2="66.33333333333334" class="ct-point" ct:value="16"/>
                                             <line x1="201" y1="121.33333333333333" x2="201.01" y2="121.33333333333333" class="ct-point" ct:value="1"/>
-                                        <text x="58.5" y="21" class="ct-post">27</text><text x="87" y="17.33333333333333" class="ct-post">28</text><text x="115.5" y="35.66666666666667" class="ct-post">23</text><text x="144" y="32" class="ct-post">24</text><text x="172.5" y="61.33333333333334" class="ct-post">16</text><text x="201" y="116.33333333333333" class="ct-post">1</text></g>
+                                        <text x="58.5" y="21" class="ct-post">27</text><text x="87" y="17.33333333333333" class="ct-post">28</text><text x="115.5" y="32" class="ct-post">24</text><text x="144" y="35.66666666666667" class="ct-post">23</text><text x="172.5" y="61.33333333333334" class="ct-post">16</text><text x="201" y="116.33333333333333" class="ct-post">1</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -6478,7 +6478,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.3911704312115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -7253,7 +7253,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 13:05:12 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 14:06:53 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
