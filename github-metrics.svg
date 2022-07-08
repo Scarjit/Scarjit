@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    185 views in last two weeks
+                                    192 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -398,16 +398,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,122.8C39.5,101.533,49,59,58.5,59C68,59,77.5,76.6,87,76.6C96.5,76.6,106,32.6,115.5,32.6C125,32.6,134.5,78.8,144,78.8C153.5,78.8,163,65.6,172.5,65.6C182,65.6,191.5,105.2,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,122.8C39.5,101.533,49,59,58.5,59C68,59,77.5,76.6,87,76.6C96.5,76.6,106,32.6,115.5,32.6C125,32.6,134.5,78.8,144,78.8C153.5,78.8,163,65.6,172.5,65.6C182,65.6,191.5,105.2,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,122.8C39.5,101.533,49,59,58.5,59C68,59,77.5,78.8,87,78.8C96.5,78.8,106,32.6,115.5,32.6C125,32.6,134.5,78.8,144,78.8C153.5,78.8,163,63.4,172.5,63.4C182,63.4,191.5,104.467,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,122.8C39.5,101.533,49,59,58.5,59C68,59,77.5,78.8,87,78.8C96.5,78.8,106,32.6,115.5,32.6C125,32.6,134.5,78.8,144,78.8C153.5,78.8,163,63.4,172.5,63.4C182,63.4,191.5,104.467,201,125" class="ct-line"/>
                                             <line x1="30" y1="122.8" x2="30.01" y2="122.8" class="ct-point" ct:value="1"/>
                                             <line x1="58.5" y1="59" x2="58.51" y2="59" class="ct-point" ct:value="30"/>
-                                            <line x1="87" y1="76.6" x2="87.01" y2="76.6" class="ct-point" ct:value="22"/>
+                                            <line x1="87" y1="78.8" x2="87.01" y2="78.8" class="ct-point" ct:value="21"/>
                                             <line x1="115.5" y1="32.599999999999994" x2="115.51" y2="32.599999999999994" class="ct-point" ct:value="42"/>
                                             <line x1="144" y1="78.8" x2="144.01" y2="78.8" class="ct-point" ct:value="21"/>
-                                            <line x1="172.5" y1="65.6" x2="172.51" y2="65.6" class="ct-point" ct:value="27"/>
+                                            <line x1="172.5" y1="63.4" x2="172.51" y2="63.4" class="ct-point" ct:value="28"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="30" y="117.8" class="ct-post">1</text><text x="58.5" y="54" class="ct-post">30</text><text x="87" y="71.6" class="ct-post">22</text><text x="115.5" y="27.599999999999994" class="ct-post">42</text><text x="144" y="73.8" class="ct-post">21</text><text x="172.5" y="60.599999999999994" class="ct-post">27</text></g>
+                                        <text x="30" y="117.8" class="ct-post">1</text><text x="58.5" y="54" class="ct-post">30</text><text x="87" y="73.8" class="ct-post">21</text><text x="115.5" y="27.599999999999994" class="ct-post">42</text><text x="144" y="73.8" class="ct-post">21</text><text x="172.5" y="58.4" class="ct-post">28</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -7320,7 +7320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2022, 16:07:53 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 17:10:35 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
