@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2296 Commits
+                            2298 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -221,7 +221,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    27 Languages
+                    28 Languages
                 </h2>
             </section>
             <section class="column">
@@ -398,16 +398,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,125C39.5,98.417,49,45.25,58.5,45.25C68,45.25,77.5,47.515,87,50.75C96.5,53.985,106,92,115.5,92C125,92,134.5,31.5,144,31.5C153.5,31.5,163,74.529,172.5,89.25C182,103.971,191.5,113.083,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,125C39.5,98.417,49,45.25,58.5,45.25C68,45.25,77.5,47.515,87,50.75C96.5,53.985,106,92,115.5,92C125,92,134.5,31.5,144,31.5C153.5,31.5,163,74.529,172.5,89.25C182,103.971,191.5,113.083,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,125C39.5,98.417,49,45.25,58.5,45.25C68,45.25,77.5,50.642,87,56.25C96.5,61.858,106,92,115.5,92C125,92,134.5,26,144,26C153.5,26,163,74.023,172.5,89.25C182,104.477,191.5,113.083,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,125C39.5,98.417,49,45.25,58.5,45.25C68,45.25,77.5,50.642,87,56.25C96.5,61.858,106,92,115.5,92C125,92,134.5,26,144,26C153.5,26,163,74.023,172.5,89.25C182,104.477,191.5,113.083,201,125" class="ct-line"/>
                                             <line x1="30" y1="125" x2="30.01" y2="125" class="ct-point" ct:value="0"/>
                                             <line x1="58.5" y1="45.25" x2="58.51" y2="45.25" class="ct-point" ct:value="29"/>
-                                            <line x1="87" y1="50.75" x2="87.01" y2="50.75" class="ct-point" ct:value="27"/>
+                                            <line x1="87" y1="56.25" x2="87.01" y2="56.25" class="ct-point" ct:value="25"/>
                                             <line x1="115.5" y1="92" x2="115.51" y2="92" class="ct-point" ct:value="12"/>
-                                            <line x1="144" y1="31.5" x2="144.01" y2="31.5" class="ct-point" ct:value="34"/>
+                                            <line x1="144" y1="26" x2="144.01" y2="26" class="ct-point" ct:value="36"/>
                                             <line x1="172.5" y1="89.25" x2="172.51" y2="89.25" class="ct-point" ct:value="13"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="58.5" y="40.25" class="ct-post">29</text><text x="87" y="45.75" class="ct-post">27</text><text x="115.5" y="87" class="ct-post">12</text><text x="144" y="26.5" class="ct-post">34</text><text x="172.5" y="84.25" class="ct-post">13</text></g>
+                                        <text x="58.5" y="40.25" class="ct-post">29</text><text x="87" y="51.25" class="ct-post">25</text><text x="115.5" y="87" class="ct-post">12</text><text x="144" y="21" class="ct-post">36</text><text x="172.5" y="84.25" class="ct-post">13</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -2421,10 +2421,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.1923076923076925)">
+                            <g transform="translate(-1.7, 5.961538461538462)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8076923076923075 0,1.8076923076923077 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8076923076923077 1.7,2.8076923076923075 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0384615384615383 0,2.0384615384615383 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0384615384615383 1.7,3.0384615384615383 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2432,9 +2432,9 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.76923076923077)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.230769230769231 0,1.2307692307692308 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2307692307692308 1.7,2.230769230769231 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.230769230769231 0,1.2307692307692308 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2307692307692308 1.7,2.230769230769231 z"/>
                             </g>
                         </g>
                     </g>
@@ -6762,7 +6762,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.016666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -6790,10 +6790,10 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">290</div>
+                                        <div class="value">291</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 290 pull requests</div>
+                                <div class="text">Opened 291 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -7377,7 +7377,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 10:06:55 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 11:05:43 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
