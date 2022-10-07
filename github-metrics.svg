@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.32m added, 1.12m removed
+                                    6.75m added, 849k removed
                                 </div>
                             </section>
                             <section>
@@ -396,16 +396,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,123.167C39.5,120.111,49,119.535,58.5,114C68,108.465,77.5,26,87,26C96.5,26,106,62.544,115.5,73.667C125,84.789,134.5,99.333,144,99.333C153.5,99.333,163,92,172.5,92C182,92,191.5,114,201,125L201,125Z" class="ct-area"/>
-                                            <path d="M30,123.167C39.5,120.111,49,119.535,58.5,114C68,108.465,77.5,26,87,26C96.5,26,106,62.544,115.5,73.667C125,84.789,134.5,99.333,144,99.333C153.5,99.333,163,92,172.5,92C182,92,191.5,114,201,125" class="ct-line"/>
+                                            <path d="M30,125L30,123.167C39.5,120.722,49,120.353,58.5,115.833C68,111.313,77.5,26,87,26C96.5,26,106,62.544,115.5,73.667C125,84.789,134.5,99.333,144,99.333C153.5,99.333,163,90.167,172.5,90.167C182,90.167,191.5,113.389,201,125L201,125Z" class="ct-area"/>
+                                            <path d="M30,123.167C39.5,120.722,49,120.353,58.5,115.833C68,111.313,77.5,26,87,26C96.5,26,106,62.544,115.5,73.667C125,84.789,134.5,99.333,144,99.333C153.5,99.333,163,90.167,172.5,90.167C182,90.167,191.5,113.389,201,125" class="ct-line"/>
                                             <line x1="30" y1="123.16666666666667" x2="30.01" y2="123.16666666666667" class="ct-point" ct:value="1"/>
-                                            <line x1="58.5" y1="114" x2="58.51" y2="114" class="ct-point" ct:value="6"/>
+                                            <line x1="58.5" y1="115.83333333333333" x2="58.51" y2="115.83333333333333" class="ct-point" ct:value="5"/>
                                             <line x1="87" y1="26" x2="87.01" y2="26" class="ct-point" ct:value="54"/>
                                             <line x1="115.5" y1="73.66666666666666" x2="115.51" y2="73.66666666666666" class="ct-point" ct:value="28"/>
                                             <line x1="144" y1="99.33333333333333" x2="144.01" y2="99.33333333333333" class="ct-point" ct:value="14"/>
-                                            <line x1="172.5" y1="92" x2="172.51" y2="92" class="ct-point" ct:value="18"/>
+                                            <line x1="172.5" y1="90.16666666666666" x2="172.51" y2="90.16666666666666" class="ct-point" ct:value="19"/>
                                             <line x1="201" y1="125" x2="201.01" y2="125" class="ct-point" ct:value="0"/>
-                                        <text x="30" y="118.16666666666667" class="ct-post">1</text><text x="58.5" y="109" class="ct-post">6</text><text x="87" y="21" class="ct-post">54</text><text x="115.5" y="68.66666666666666" class="ct-post">28</text><text x="144" y="94.33333333333333" class="ct-post">14</text><text x="172.5" y="87" class="ct-post">18</text></g>
+                                        <text x="30" y="118.16666666666667" class="ct-post">1</text><text x="58.5" y="110.83333333333333" class="ct-post">5</text><text x="87" y="21" class="ct-post">54</text><text x="115.5" y="68.66666666666666" class="ct-post">28</text><text x="144" y="94.33333333333333" class="ct-post">14</text><text x="172.5" y="85.16666666666666" class="ct-post">19</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -7136,7 +7136,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 557k out of 99m users</span>
+                                    <span class="gh">ranked 558k out of 99m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -7435,7 +7435,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2022, 17:07:21 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Oct 2022, 18:08:21 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
