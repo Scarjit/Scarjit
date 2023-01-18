@@ -50,9 +50,19 @@ jobs:
           plugin_isocalendar_duration: full-year
           
           plugin_languages: yes
+          plugin_languages_other: yes
+          plugin_languages_indepth: yes
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com, ferdinand@linnenberg.dev, fl@umh.app, ferdinand.linnenberg@aol.com         
           
           plugin_lines: yes
+          
+          plugin_topics: true
           
           plugin_traffic: yes
           plugin_calendar: yes
           plugin_calendar_limit: 0
+          
+          plugin_stars: yes
+          
+          plugin_sponsorships: yes
+          
