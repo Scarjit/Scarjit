@@ -6792,7 +6792,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tpkeeper/gin-dump</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gin middleware to dump header/body of request and response.Very helpful for debugging your applications.</div>
@@ -6845,7 +6845,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monero-project/monero</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monero: the secure, private, untraceable cryptocurrency</div>
@@ -6951,7 +6951,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dropbox/zxcvbn</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low-Budget Password Strength Estimation</div>
@@ -7095,7 +7095,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.63655030800822 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -7159,7 +7159,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 176k out of 106m users</span>
+                                    <span class="gh">ranked 177k out of 106m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">91</div>
                                     </div>
@@ -7436,7 +7436,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 193k out of 368m repositories</span>
+                                    <span class="gh">ranked 193k out of 371m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">168</div>
                                     </div>
@@ -7578,7 +7578,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.13m out of 368m repositories</span>
+                                    <span class="gh">ranked 1.13m out of 371m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -7854,7 +7854,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2023, 01:02:04 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Jan 2023, 13:02:12 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
