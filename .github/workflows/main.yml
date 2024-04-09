@@ -33,31 +33,8 @@ jobs:
           config_octicon: yes
           config_timezone: Europe/Berlin
           config_twemoji: yes
-          
-          plugin_habits: no
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: chartist
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
+
           plugin_languages: yes
           plugin_languages_other: yes
           plugin_languages_indepth: yes
           commits_authoring: firstname lastname, username, username@users.noreply.github.com, ferdinand@linnenberg.dev, fl@umh.app, ferdinand.linnenberg@aol.com         
-          
-          plugin_lines: yes
-          
-          plugin_topics: true
-          
-          plugin_traffic: yes
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-          
-          plugin_stars: yes
-          
-          plugin_sponsorships: yes
-          
